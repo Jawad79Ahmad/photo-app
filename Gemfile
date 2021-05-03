@@ -29,6 +29,8 @@ gem 'devise-bootstrap-views'
 
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs'
+
+gem 'stripe'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
